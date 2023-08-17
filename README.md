@@ -9,13 +9,13 @@
 - 
 - 👨‍💻 All of my projects are available at <a href="http://projects.nirmitcodes.tech">projects.nirmitcodes.tech</a>
 
-- 📝 I regularly write articles on <a href="blog.nirmitcodes.tech">blog.nirmitcodes.tech</a>
+- 📝 I regularly write articles on <a href="http://blog.nirmitcodes.tech">blog.nirmitcodes.tech</a>
 
 - 💬 Ask me about **node js, arduino, robotics, html, css, js and a lot more**
 
 - 📫 How to reach me **nirmit.aggarwal@kiitworld.in**
 
-- 📄 Know about my experiences <a href="portfolio.nirmitcodes.tech">portfolio.nirmitcodes.tech</a>
+- 📄 Know about my experiences <a href="http://portfolio.nirmitcodes.tech">portfolio.nirmitcodes.tech</a>
 
 - ⚡ Fun fact **I have been coding since I was 10 years old**
 
