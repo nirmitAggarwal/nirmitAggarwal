@@ -6,16 +6,16 @@
 <p align="left"> <a href="https://twitter.com/nirmitagg1521" target="blank"><img src="https://img.shields.io/twitter/follow/nirmitagg1521?logo=twitter&style=for-the-badge" alt="nirmitagg1521" /></a> </p>
 
 - 🌱 I’m currently learning **SQL, PYTHON**
+<a href=""></a>
+- 👨‍💻 All of my projects are available at <a href="projects.nirmitcodes.tech">projects.nirmitcodes.tech</a>
 
-- 👨‍💻 All of my projects are available at [projects.nirmitcodes.tech](projects.nirmitcodes.tech)
-
-- 📝 I regularly write articles on [blog.nirmitcodes.tech](blog.nirmitcodes.tech)
+- 📝 I regularly write articles on <a href="blog.nirmitcodes.tech">blog.nirmitcodes.tech</a>
 
 - 💬 Ask me about **node js, arduino, robotics, html, css, js and a lot more**
 
 - 📫 How to reach me **nirmit.aggarwal@kiitworld.in**
 
-- 📄 Know about my experiences [portfolio.nirmitcodes.tech](portfolio.nirmitcodes.tech)
+- 📄 Know about my experiences <a href="portfolio.nirmitcodes.tech">portfolio.nirmitcodes.tech</a>
 
 - ⚡ Fun fact **I have been coding since I was 10 years old**
 
