@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **SQL, PYTHON**
 
-- 👨‍💻 All of my projects are available at [nirmitcodes.tech](nirmitcodes.tech)
+- 👨‍💻 All of my projects are available at [projects.nirmitcodes.tech](projects.nirmitcodes.tech)
 
-- 📝 I regularly write articles on [nirmitcodes.tech](nirmitcodes.tech)
+- 📝 I regularly write articles on [blog.nirmitcodes.tech](blog.nirmitcodes.tech)
 
 - 💬 Ask me about **node js, arduino, robotics, html, css, js and a lot more**
 
 - 📫 How to reach me **nirmit.aggarwal@kiitworld.in**
 
-- 📄 Know about my experiences [nirmitcodes.tech](nirmitcodes.tech)
+- 📄 Know about my experiences [portfolio.nirmitcodes.tech](portfolio.nirmitcodes.tech)
 
 - ⚡ Fun fact **I have been coding since I was 10 years old**
 
