@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/nirmitagg1521" target="blank"><img src="https://img.shields.io/twitter/follow/nirmitagg1521?logo=twitter&style=for-the-badge" alt="nirmitagg1521" /></a> </p>
 
 - 🌱 I’m currently learning **SQL, PYTHON**
-- 
+
 - 👨‍💻 All of my projects are available at <a href="http://projects.nirmitcodes.tech">projects.nirmitcodes.tech</a>
 
 - 📝 I regularly write articles on <a href="http://blog.nirmitcodes.tech">blog.nirmitcodes.tech</a>
