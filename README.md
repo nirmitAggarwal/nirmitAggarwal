@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmitaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="nirmitaggarwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirmitaggarwal" alt="nirmitaggarwal" /></a> </p>
-
 - 🌱 I’m currently learning **Next.JS and Three.JS**
 
 - 💬 Ask me about **MERN stack web development**
